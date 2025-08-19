@@ -1,1 +1,1 @@
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-white?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-In%development-white?style=for-the-badge&logo=github)
